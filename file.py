@@ -9,3 +9,5 @@ def f_false():
 # a third
 def f_maybe():
 	return "maybe"  # add a comment: maybe is not the same type as True or False
+
+# a comment on a new line
